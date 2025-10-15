@@ -1,7 +1,0 @@
-C:\Users\Приемная\source\repos\MatrixVariant4\bin\Debug\MatrixVariant4.exe.config
-C:\Users\Приемная\source\repos\MatrixVariant4\bin\Debug\MatrixVariant4.exe
-C:\Users\Приемная\source\repos\MatrixVariant4\bin\Debug\MatrixVariant4.pdb
-C:\Users\Приемная\source\repos\MatrixVariant4\obj\Debug\MatrixVariant4.csproj.AssemblyReference.cache
-C:\Users\Приемная\source\repos\MatrixVariant4\obj\Debug\MatrixVariant4.csproj.CoreCompileInputs.cache
-C:\Users\Приемная\source\repos\MatrixVariant4\obj\Debug\MatrixVariant4.exe
-C:\Users\Приемная\source\repos\MatrixVariant4\obj\Debug\MatrixVariant4.pdb
