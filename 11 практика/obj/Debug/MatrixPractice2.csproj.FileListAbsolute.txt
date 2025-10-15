@@ -1,0 +1,7 @@
+C:\Users\Приемная\source\repos\MatrixPractice2\bin\Debug\MatrixPractice2.exe.config
+C:\Users\Приемная\source\repos\MatrixPractice2\bin\Debug\MatrixPractice2.exe
+C:\Users\Приемная\source\repos\MatrixPractice2\bin\Debug\MatrixPractice2.pdb
+C:\Users\Приемная\source\repos\MatrixPractice2\obj\Debug\MatrixPractice2.csproj.AssemblyReference.cache
+C:\Users\Приемная\source\repos\MatrixPractice2\obj\Debug\MatrixPractice2.csproj.CoreCompileInputs.cache
+C:\Users\Приемная\source\repos\MatrixPractice2\obj\Debug\MatrixPractice2.exe
+C:\Users\Приемная\source\repos\MatrixPractice2\obj\Debug\MatrixPractice2.pdb
