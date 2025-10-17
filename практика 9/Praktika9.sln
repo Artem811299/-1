@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktika9", "Praktika9\Praktika9.csproj", "{306BC824-4102-45E9-8334-091DADB35C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktika9V1", "Praktika9V1\Praktika9V1.csproj", "{7705ACB2-57B4-405B-8013-327FC6441AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306BC824-4102-45E9-8334-091DADB35C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306BC824-4102-45E9-8334-091DADB35C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306BC824-4102-45E9-8334-091DADB35C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306BC824-4102-45E9-8334-091DADB35C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7705ACB2-57B4-405B-8013-327FC6441AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7705ACB2-57B4-405B-8013-327FC6441AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7705ACB2-57B4-405B-8013-327FC6441AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7705ACB2-57B4-405B-8013-327FC6441AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {102BAC66-9108-4941-9F57-41D3826789FB}
+	EndGlobalSection
+EndGlobal
